@@ -1,0 +1,8 @@
+{
+    "name": "forGithub",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Mirsad Dibrani",
+    "contributors": [],
+    "dependencies": {}
+}
